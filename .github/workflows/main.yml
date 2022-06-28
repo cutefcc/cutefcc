@@ -3,14 +3,16 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '23 15 * * *'
+    - cron: '29 15 * * *'
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Profile Readme Development Stats
     runs-on: ubuntu-latest
+
+
     steps:
-      - uses: cutefcc/cutefcc@main
+      - uses: anmol098/waka-readme-stats@V3
         with:
           WAKATIME_API_KEY: eaf09302-9240-4004-a6f8-fdf45f87ac22
           GH_TOKEN: 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
