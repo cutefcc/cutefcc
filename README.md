@@ -2,6 +2,8 @@
 
 <img src="https://gpvc.arturio.dev/cutefcc" alt="profile views">
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #### 📈 my github stats
 
