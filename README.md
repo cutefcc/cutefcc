@@ -1,4 +1,4 @@
-### Hi there  🚀  I’m cutefcc, i used to work for tempus and qunar. Now working at MaiMai
+### Hi there  🚀  I’m cutefcc, I am a front-end developer. 
 
 <img src="https://gpvc.arturio.dev/cutefcc" alt="profile views">
 
