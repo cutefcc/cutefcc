@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there  🚀  I’m cutefcc, i used to work for tempus and qunar. Now working at MaiMai
 
+<img src="https://gpvc.arturio.dev/cutefcc" alt="profile views">
+
+
+#### 📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!--
 **cutefcc/cutefcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
