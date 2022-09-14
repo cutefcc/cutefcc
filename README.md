@@ -5,12 +5,12 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-- 🐛 I only play with react and typescript and its related ecosystem, don't discuss Vue with me.
+- 🐛 I only play with react and typescript and its related ecosystem, Don't talk to me about vue.
 
-- 🦗 When it comes to state management, I absolutely love Atomic State. 
+- 🦗 When it comes to state management, I love Atomic State absolutely. 
   - Redux, Jotai, Zustand, Recoil, XState are all I have used and like very much.
   
-- 🦐 When it comes to CSS, I've used CSS Modules, css in js (like @emotion/styled), but when I meet *tailwindcss*, I think I've found love.
+- 🦐 When talking about CSS, I've used CSS Modules, css in js (like @emotion/styled), but when I meet *tailwindcss*, I think I've found love.
 
 - 🐔 The component library is definitely a must-have for the front end. I use verdadcio to build a private library for the company, and have developed component libraries based on Antd and Material UI. Of course, I prefer MUI by comparison.
 
