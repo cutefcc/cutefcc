@@ -20,4 +20,4 @@
 
 - 🌱 I’m currently learning babylon.js、three.js、react-three-fiber、blender and other front-end graphics related knowledge.
 
-- 🍎 I'm also interested in blockchain, such as: MetaMask, Tezos, Temple, Taquito, IPFS, web3-react.
+- 🍎 I'm also interested in blockchain, such as: Dapp, Wallet (MetaMask,Temple), Tezos, Taquito, IPFS, web3-react.
