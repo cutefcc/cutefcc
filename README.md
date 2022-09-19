@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-- 🐛 I only play with react and typescript and its related ecosystem, Don't talk to me about vue.
+- 🐛 I only play with react and typescript and its related ecosystem.
 
 - 🦗 When it comes to state management, I love Atomic State absolutely. 
   - Redux, Jotai, Zustand, Recoil, XState are all I have used and like very much.
