@@ -21,4 +21,5 @@
 - 🌱 I’m currently learning babylon.js、three.js、react-three-fiber、blender and other front-end graphics related knowledge.
 
 - 🍎 I'm also interested in blockchain、web3, such as: Dapp, Wallet (MetaMask,Temple), Tezos, Taquito, Ganache, Truffle, ethers, IPFS, web3-react. We've won a prize at 2022 Wanxiang Fall Hackathon
-- 🐶 You can contact me via email cquliuhao@gmail.com, and I really enjoy discussing various issues with you.
+- 🐶 You can contact me via email, and I really enjoy discussing various issues with you.
+   - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cquliuhao@gmail.com)
