@@ -5,7 +5,7 @@
 --- 
 
 <div style="display: flex; justifyContent: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" width="450" alt="abhisheknaiidu" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" width="350" alt="abhisheknaiidu" />
   <img align="right" alt="coding animated image --- gif" src="./public/code.gif?raw=true" width="450" />
 </div>
 
