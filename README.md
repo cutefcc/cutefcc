@@ -5,7 +5,7 @@
 --- 
 
 <div style="display: flex; justifyContent: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" width="350" alt="abhisheknaiidu" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" width="350" alt="abhisheknaiidu" /> -->
   <img align="right" alt="coding animated image --- gif" src="./public/code.gif?raw=true" width="350" />
 </div>
 
@@ -31,3 +31,4 @@
 - 🍎 I'm also interested in `blockchain`、`web3`, such as: `Dapp`, `Wallet` (`MetaMask`,Temple), Tezos, Taquito, Ganache, Truffle, ethers, `IPFS`, `web3-react`. We've won a prize at `2022 Wanxiang Fall Hackathon`
 - 🐶 You can contact me via email `cquliuhao@gmail.com`, and I really enjoy discussing various issues with you.
 - <img src="https://gpvc.arturio.dev/cutefcc" alt="profile views">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" width="100%" alt="abhisheknaiidu" />
