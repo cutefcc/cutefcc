@@ -32,9 +32,9 @@
 - 🐶 You can contact me via email `cquliuhao@gmail.com`, and I really enjoy discussing various issues with you.
 - <img src="https://gpvc.arturio.dev/cutefcc" alt="profile views">
 
-<!-- <div style="display: flex;"> -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" width="420" height="180" alt="abhisheknaiidu" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutefcc&theme=cobalt&layout=compact&show_icons=true" width="420" height="180"  />
-<!-- </div> -->
+<div style="display: flex;">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" width="410" height="180" alt="abhisheknaiidu" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutefcc&theme=cobalt&layout=compact&show_icons=true" width="410" height="180"  />
+</div>
 
 
