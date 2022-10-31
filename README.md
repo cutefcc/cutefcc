@@ -33,8 +33,8 @@
 - <img src="https://gpvc.arturio.dev/cutefcc" alt="profile views">
 
 <div style="display: flex;">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" width="410" height="180" alt="abhisheknaiidu" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutefcc&theme=cobalt&layout=compact&show_icons=true" width="410" height="180"  />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" width="400" height="180" alt="abhisheknaiidu" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutefcc&theme=cobalt&layout=compact&show_icons=true" width="400" height="180"  />
 </div>
 
 
