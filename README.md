@@ -31,4 +31,10 @@
 - 🍎 I'm also interested in `blockchain`、`web3`, such as: `Dapp`, `Wallet` (`MetaMask`,Temple), Tezos, Taquito, Ganache, Truffle, ethers, `IPFS`, `web3-react`. We've won a prize at `2022 Wanxiang Fall Hackathon`
 - 🐶 You can contact me via email `cquliuhao@gmail.com`, and I really enjoy discussing various issues with you.
 - <img src="https://gpvc.arturio.dev/cutefcc" alt="profile views">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" width="100%" alt="abhisheknaiidu" />
+
+<!-- <div style="display: flex;"> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cutefcc&show_icons=true&theme=gotham" width="470" height="180" alt="abhisheknaiidu" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutefcc&theme=cobalt&layout=compact&show_icons=true" width="470" height="180"  />
+<!-- </div> -->
+
+
